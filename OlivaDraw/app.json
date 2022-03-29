@@ -1,0 +1,16 @@
+{
+    "name" : "OlivaDraw抽卡",
+    "author" : "Fitz161",
+    "namespace" : "OlivaDraw抽卡",
+    "priority" : 10000,
+    "svn" : 1,
+    "compatible_svn" : 94,
+    "message_mode" : "olivos_string",
+    "support" : [
+        {
+            "sdk" : "all",
+            "platform" : "qq",
+            "model" : "all"
+        }
+    ]
+}
